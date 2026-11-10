@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**ashfoxdev/ashfoxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ashfox 👋
 
-Here are some ideas to get you started:
+### AI & Data Science Student | Aspiring Developer 🦊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year AI & DS student passionate about technology, coding and building real-world solutions.
+
+- 🎓 Studying Artificial Intelligence & Data Science
+- 💻 Learning C, Python and Full Stack Development
+- 🚀 Interested in AI/ML and innovative projects
+- 🏆 Preparing for Hackathons
+- 🌱 Learning something new every day
+
+### Tech Stack
+C | Python | HTML | CSS | JavaScript | Git | GitHub
+
+### My Goals
+- Build real-world projects
+- Contribute to Open Source
+- Participate in Hackathons
+- Become a skilled developer
+
+### Connect with me
+GitHub: [@ashfoxdev](https://github.com/ashfoxdev)
+
+---
+**Building. Learning. Innovating.**
